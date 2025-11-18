@@ -1,4 +1,4 @@
-Prédire le départ des salariés par machine learning
+PREDIRE LE DEPART DES SALARIES PAR MACHINE LEARNING
 
 La fidélisation des talents et la gestion des compétences représentent des enjeux stratégiques majeurs pour les entreprises. Un taux d'attrition élevé nuit non seulement à la productivité et à la stabilité des équipes, mais génère également des coûts significatifs liés au recrutement et à la formation de nouveaux collaborateurs.
 
