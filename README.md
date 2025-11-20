@@ -25,7 +25,7 @@ Les outils et librairies utilisés sont les suivants :
     - `scikit-learn` pour la construction, l'entraînement et l'évaluation des modèles prédictifs.
   
 - *Visualisations finales :*  
-    - Tableau afin de produire des visualisations interactives et des tableaux de bord clairs.
+    - Tableau afin de produire des visualisations claires.
   
 - *Présentation des résultats :*  
     - Microsoft Power Point pour la synthèse et la communication des conclusions de l’étude.
